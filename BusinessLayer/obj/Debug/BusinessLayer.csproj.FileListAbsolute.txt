@@ -1,0 +1,11 @@
+c:\users\shruthi\documents\visual studio 2012\Projects\PhoneBookApp\BusinessLayer\bin\Debug\BusinessLayer.dll
+c:\users\shruthi\documents\visual studio 2012\Projects\PhoneBookApp\BusinessLayer\bin\Debug\BusinessLayer.pdb
+c:\users\shruthi\documents\visual studio 2012\Projects\PhoneBookApp\BusinessLayer\bin\Debug\DataAccessLayer.dll
+c:\users\shruthi\documents\visual studio 2012\Projects\PhoneBookApp\BusinessLayer\bin\Debug\Entity.dll
+c:\users\shruthi\documents\visual studio 2012\Projects\PhoneBookApp\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+c:\users\shruthi\documents\visual studio 2012\Projects\PhoneBookApp\BusinessLayer\bin\Debug\Entity.pdb
+c:\users\shruthi\documents\visual studio 2012\Projects\PhoneBookApp\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+c:\users\shruthi\documents\visual studio 2012\Projects\PhoneBookApp\BusinessLayer\obj\Debug\BusinessLayer.dll
+c:\users\shruthi\documents\visual studio 2012\Projects\PhoneBookApp\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Shruthi\documents\visual studio 2012\Projects\PhoneBookApp\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Shruthi\documents\visual studio 2012\Projects\PhoneBookApp\BusinessLayer\bin\Debug\EntityFramework.xml

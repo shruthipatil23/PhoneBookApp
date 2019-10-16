@@ -1,0 +1,16 @@
+c:\users\shruthi\documents\visual studio 2012\Projects\PhoneBookApp\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+c:\users\shruthi\documents\visual studio 2012\Projects\PhoneBookApp\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+c:\users\shruthi\documents\visual studio 2012\Projects\PhoneBookApp\DataAccessLayer\bin\Debug\Entity.dll
+c:\users\shruthi\documents\visual studio 2012\Projects\PhoneBookApp\DataAccessLayer\bin\Debug\Entity.pdb
+c:\users\shruthi\documents\visual studio 2012\Projects\PhoneBookApp\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+c:\users\shruthi\documents\visual studio 2012\Projects\PhoneBookApp\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Shruthi\documents\visual studio 2012\Projects\PhoneBookApp\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Shruthi\documents\visual studio 2012\Projects\PhoneBookApp\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Shruthi\documents\visual studio 2012\Projects\PhoneBookApp\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Shruthi\documents\visual studio 2012\Projects\PhoneBookApp\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Shruthi\documents\visual studio 2012\Projects\PhoneBookApp\DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Shruthi\documents\visual studio 2012\Projects\PhoneBookApp\DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Shruthi\documents\visual studio 2012\Projects\PhoneBookApp\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Shruthi\documents\visual studio 2012\Projects\PhoneBookApp\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Shruthi\documents\visual studio 2012\Projects\PhoneBookApp\DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Shruthi\documents\visual studio 2012\Projects\PhoneBookApp\DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
